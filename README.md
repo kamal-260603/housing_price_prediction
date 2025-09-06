@@ -55,3 +55,5 @@ Once the dependencies are installed, you can open and run the Housing_price_pred
 
 📊 Results
 The notebook provides detailed output for each step, including the performance metrics for each model. The results demonstrate the superior predictive power of the ensemble model (Random Forest) compared to the simpler Linear Regression and Decision Tree models.
+
+You can see the output of cells in the Housing_price_predictions.pdf. 
